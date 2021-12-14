@@ -1,0 +1,6 @@
+Tabelle: 
+
+Keys: 
+- id (PK, integer progressivo, AI)
+- key (Varchar(16))
+

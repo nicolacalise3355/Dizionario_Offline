@@ -25,5 +25,20 @@ namespace Dizionario_Offline
             this.dizionario = new Dictionary<string, string>();
         }
 
+        public string getDesc(string parola)
+        {
+            string value;
+            this.dizionario.TryGetValue(parola, out value);
+            return value;
+        }
+
+        public void insertParola(string parola, string desc)
+        {
+            if (!this.dizionario.ContainsKey(parola))
+            {
+                this.dizionario.Add(parola, desc);
+            }
+        }
+
     }
 }

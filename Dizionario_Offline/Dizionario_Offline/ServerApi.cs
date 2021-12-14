@@ -43,7 +43,7 @@ namespace Dizionario_Offline
                 return getResponseByJson(result);
             }
 
-            Console.WriteLine(httpResponse.StatusCode);
+            //Console.WriteLine(httpResponse.StatusCode);
 
         }
 

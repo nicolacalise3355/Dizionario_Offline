@@ -1,0 +1,16 @@
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\bin\Debug\net5.0\Dizionario_Offline.exe
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\bin\Debug\net5.0\Dizionario_Offline.deps.json
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\bin\Debug\net5.0\Dizionario_Offline.runtimeconfig.json
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\bin\Debug\net5.0\Dizionario_Offline.runtimeconfig.dev.json
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\bin\Debug\net5.0\Dizionario_Offline.dll
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\bin\Debug\net5.0\ref\Dizionario_Offline.dll
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\bin\Debug\net5.0\Dizionario_Offline.pdb
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\obj\Debug\net5.0\Dizionario_Offline.csproj.AssemblyReference.cache
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\obj\Debug\net5.0\Dizionario_Offline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\obj\Debug\net5.0\Dizionario_Offline.AssemblyInfoInputs.cache
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\obj\Debug\net5.0\Dizionario_Offline.AssemblyInfo.cs
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\obj\Debug\net5.0\Dizionario_Offline.csproj.CoreCompileInputs.cache
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\obj\Debug\net5.0\Dizionario_Offline.dll
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\obj\Debug\net5.0\ref\Dizionario_Offline.dll
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\obj\Debug\net5.0\Dizionario_Offline.pdb
+C:\Users\Nicola\Documents\GitHub\Dizionario_Offline\Dizionario_Offline\Dizionario_Offline\obj\Debug\net5.0\Dizionario_Offline.genruntimeconfig.cache

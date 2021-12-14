@@ -6,7 +6,8 @@ namespace Dizionario_Offline
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome");
+            Dizionario dict = new Dizionario();
         }
     }
 }

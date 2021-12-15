@@ -40,5 +40,23 @@ namespace Dizionario_Offline
             }
         }
 
+        public void printDizionario()
+        {
+            if(this.dizionario == null)
+            {
+                Console.WriteLine("Dizionario null");
+                return;
+            }
+            Console.WriteLine("******DIZIONARIO******");
+            foreach (KeyValuePair<string, string> entry in this.dizionario)
+            {
+
+                Console.WriteLine("Parola: " + entry.Key);
+                Console.WriteLine("Significato: " + entry.Value);
+                Console.WriteLine("--------------------------------");
+            }
+            Console.WriteLine("******FINE******");
+        }
+
     }
 }

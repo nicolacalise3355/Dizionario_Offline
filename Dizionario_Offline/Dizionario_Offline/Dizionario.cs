@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,18 @@ namespace Dizionario_Offline
         public void resetDizionario()
         {
             this.dizionario = new Dictionary<string, string>();
+        }
+
+        public string findParola(string parola)
+        {
+            if (this.dizionario.ContainsKey(parola))
+            {
+                return getDesc(parola);
+            }
+            else
+            {
+                return "";
+            }
         }
 
         public string getDesc(string parola)
@@ -58,5 +71,22 @@ namespace Dizionario_Offline
             Console.WriteLine("******FINE******");
         }
 
+        internal ArrayList FindFromChar(char lettera)
+        {
+            ArrayList tmp = new ArrayList();
+            if (this.dizionario == null)
+            {
+                Console.WriteLine("Dizionario null");
+                return null;
+            }
+            foreach (KeyValuePair<string, string> entry in this.dizionario)
+            {
+                if(entry.Key[0] == lettera)
+                {
+                    tmp.Add(entry.Key);
+                }
+            }
+            return tmp;
+        }
     }
 }

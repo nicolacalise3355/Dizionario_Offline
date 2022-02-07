@@ -1,5 +1,7 @@
 # Dizionario_Offline
 
+*LO SVILUPPO DEL PROGETTO E' TEMPORANEAMENTE SOSPESO, si prega quindi di non valutarne errori/insattezze*
+
 Il seguente programma implementa un semplice dizionario che lavora come un contenitore di parole e dei suoi significati.
 E' Implementata un interfaccia grafica per semplificare il suo utilizzo.
 La persistenza dei dati e' garantita attraverso serializzazione JSON.
